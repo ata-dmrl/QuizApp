@@ -1,0 +1,36 @@
+{
+  "quiz": [
+    {
+      "question": "Türkiye'nin başkenti neresidir?",
+      "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+      "answer": [1],
+      "type": "singleSelect"
+    },
+    {
+      "question": "Dünya'nın en yüksek dağı hangisidir?",
+      "options": ["K2", "Everest", "Kilimanjaro", "Elbrus"],
+      "answer": [1],
+      "type": "singleSelect"
+    },
+    {
+      "question": "Bir üçgenin iç açılarının toplamı kaç derecedir?",
+      "options": ["90°", "180°", "270°", "360°"],
+      "answer": [1],
+      "type": "singleSelect"
+    },
+    {
+      "question": "Hangi gezegen Güneş Sistemi'nde en büyük gezegendir?",
+      "options": ["Mars", "Venüs", "Jüpiter", "Satürn"],
+      "answer": [2],
+      "type": "singleSelect"
+    },
+    {
+      "question": "Atatürk'ün doğum yılı nedir?",
+      "options": ["1881", "1893", "1905", "1919"],
+      "answer": [0],
+      "type": "singleSelect"
+    }
+  ],
+  "title": "Quiz Card",
+  "type": "quiz"
+}
